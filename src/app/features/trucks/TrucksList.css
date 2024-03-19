@@ -1,0 +1,12 @@
+.trucks-list {
+    text-align: center;
+    min-height: calc(100vh - 185px);
+    color: #ccc;
+    font-size: calc(10px + 2vmin);;
+  }
+
+  .trucks-list tr{
+    cursor: pointer;
+  }
+
+  
